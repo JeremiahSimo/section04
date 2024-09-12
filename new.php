@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-/* Payment Form */ 
+/* Payment Form For client */ 
 <div class="modal">
 <form class="form">
   <div class="payment--options">
