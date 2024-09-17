@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>this is dashboard</h1>
+    <h1>I am proud to be gay</h1>
+    <h2>-Nieljan Sumampong</h2>
 </body>
 </html>
